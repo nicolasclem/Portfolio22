@@ -664,9 +664,10 @@ h3.my-profession
 }
 .contact .contact-info-item
 {
-    flex: 0 0 25%;
-    max-width: 25%;
+    flex: 0 0 33.3%;
+    max-width: 33.3%;
     text-align: center;
+    margin-top: 40px;
     margin-bottom: 60PX;
 }
 .contact .contact-info-item .icon
